@@ -16,3 +16,14 @@ Icon
 CLAUDE.md
 .DS_Store
 .claude/settings.local.json
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Generated report files
+*.html
+*.png
+__pycache__/
+*.pyc
+.DS_Store
